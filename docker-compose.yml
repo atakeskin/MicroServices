@@ -35,10 +35,6 @@ services:
     networks:
       - int_net
 
-
-
-
-
 networks:
   int_net:
     driver: overlay
